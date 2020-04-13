@@ -23,7 +23,7 @@ npx react-native start
 
 ```python
 cd AwesomeProject
-npx react-native start
+npx react-native run-android
 ```
 
 ## Step 3
