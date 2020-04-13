@@ -27,3 +27,9 @@ npx react-native start
 ```
 
 ## Step 3
+
+The following command is to install the maps apit
+
+```python
+npm install react-native-maps --save-exact
+```
