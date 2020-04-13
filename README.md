@@ -51,3 +51,5 @@ npx react-native start
 cd maps
 npx react-native run-android
 ```
+
+<img src = "https://github.com/BUEC500C1/codvid-app-djtrinh/blob/master/imgs/img4.PNG">
