@@ -33,3 +33,15 @@ The following command is to install the maps apit
 ```python
 npm install react-native-maps --save-exact
 ```
+App.js was modified to show a map. Google API keys were also generated and pushed into the manifest.xml file.
+
+We can then run the application the same way again.
+```python
+cd maps
+npx react-native start
+```
+
+```python
+cd maps
+npx react-native run-android
+```
