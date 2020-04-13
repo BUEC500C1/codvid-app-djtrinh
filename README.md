@@ -21,10 +21,16 @@ cd AwesomeProject
 npx react-native start
 ```
 
+<img src = "https://github.com/BUEC500C1/codvid-app-djtrinh/blob/master/imgs/img1.PNG">
+
 ```python
 cd AwesomeProject
 npx react-native run-android
 ```
+
+<img src = "https://github.com/BUEC500C1/codvid-app-djtrinh/blob/master/imgs/img2.PNG">
+
+<img src = "https://github.com/BUEC500C1/codvid-app-djtrinh/blob/master/imgs/img3.PNG">
 
 ## Step 3
 
