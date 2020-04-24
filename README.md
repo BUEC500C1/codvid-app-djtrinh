@@ -108,3 +108,7 @@ Clicking on "ENTER ADDRESS" allows the user to jump to a specific location
 on the map by zip code or full address.
 
 ![](imgs/img10.PNG)
+
+## Video of App
+
+[![Link to Video](https://i9.ytimg.com/vi/pcdGsY4tjJc/mq1.jpg?sqp=CPLcjfUF&rs=AOn4CLAbWdRtzZNvCroOatHTv9pxYB1swg)](https://youtu.be/pcdGsY4tjJc)
